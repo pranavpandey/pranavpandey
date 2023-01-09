@@ -8,9 +8,10 @@
 
 I am a professional software developer and a little bit designer from India working on many technologies, especially related to Android.
 
-[Website][website] | [Google Play][google play] | [Developer][google play dev]
+[Website][website] | [Google Play][google play] | [Developer][google play dev] | [Blog][blog]
 
 
 [website]: https://pranavpandey.com
 [google play]: https://play.google.com/store/apps/dev?id=6608630615059087491
 [google play dev]: https://play.google.com/store/apps/dev?id=9004920749056291770
+[blog]: https://techtics.xyz
